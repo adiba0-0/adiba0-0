@@ -10,7 +10,9 @@ I'm a Computer Science student who enjoys building things that solve real proble
 - Exploring new ideas whenever I get distracted by one
 
 ## Tools & Tech:
-C/C++, Python, JavaScript, TypeScript, Rust, React, Node.js, Express, MongoDB, Tailwind CSS, Git, GitHub, VS Code, Figma, AWS Amplify and Vercel.
+- React.js, Node.js, Express.js, MongoDB, HTML5, CSS3, Tailwind CSS, Three.js, Blockchain
+- C, C++, Python, JavaScript (ES6+), TypeScript, Rust
+- Git, GitHub, VS Code, Figma, Canva, AWS Amplify, Vercel
 
 ## Reach Me:
 - Email: adibaaa9811@gmail.com
