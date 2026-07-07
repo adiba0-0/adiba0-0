@@ -13,8 +13,8 @@ I'm a Computer Science student who enjoys building things that solve real proble
 C/C++, Python, JavaScript, TypeScript, Rust, React, Node.js, Express, MongoDB, Tailwind CSS, Git, GitHub, VS Code, Figma, AWS Amplify and Vercel.
 
 ## Reach Me:
-email: adibaaa9811@gmail.com
-linkedin: https://www.linkedin.com/in/adiba-7a3240332/
+- Email: adibaaa9811@gmail.com
+- Linkedin: https://www.linkedin.com/in/adiba-7a3240332/
 
 ## A Bit About Me:
 - 🐱 I have a cat and love cats a lot.
