@@ -19,7 +19,7 @@ I'm a Computer Science student who enjoys building things that solve real proble
 - Linkedin: https://www.linkedin.com/in/adiba-7a3240332/
 
 ## A Bit About Me:
-- 🐱 I have a cat and love cats a lot.
+- 🐱 I have a cat and I love cats a lot.
 - 🍵 I don't like tea or coffee.
 - 🧶 I like travelling and crocheting.
 - 🖳 I like building things that excite me.
