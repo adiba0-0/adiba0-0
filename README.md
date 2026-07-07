@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there! 😃
 
-<!--
-**adiba0-0/adiba0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Adiba**, a software engineer based in India.
 
-Here are some ideas to get you started:
+I'm a Computer Science student who enjoys building things that solve real problems. Most of my time goes into full-stack development, and lately I've been exploring AI, Machine Learning, Deep Learning, Computer Vision, and NLP by building small projects and learning as I go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On:
+- Learning AI/ML, Deep Learning, Computer Vision & NLP
+- Building projects with OpenCV and Python
+- Exploring new ideas whenever I get distracted by one
+
+## Tools & Tech:
+C/C++, Python, JavaScript, TypeScript, Rust, React, Node.js, Express, MongoDB, Tailwind CSS, Git, GitHub, VS Code, Figma, AWS Amplify and Vercel.
+
+## Reach Me:
+email: adibaaa9811@gmail.com
+linkedin: https://www.linkedin.com/in/adiba-7a3240332/
+
+## A Bit About Me:
+- 🐱 I have a cat and love cats a lot.
+- 🍵 I don't like tea or coffee.
+- 🧶 I like travelling and crocheting.
+- 🖳 I like building things that excite me.
